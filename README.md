@@ -56,7 +56,7 @@ Backend: Node.js, Express.js, MongoDB (Mongoose)
 
 Auth: JWT (jsonwebtoken), bcryptjs
 
-Frontend: HTML, CSS, JavaScript (Fetch API)
+Frontend: HTML, CSS, TypeScript (Fetch API), JavaScript
 
 Other: dotenv, cors, nodemon
 
